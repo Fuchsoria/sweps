@@ -1,3 +1,3 @@
-# svelte-webpack-template
+# svelte-template
 
-Svelte, Webpack, Eslint, Prettier
+Svelte, Webpack, Eslint, Prettier, Scss
